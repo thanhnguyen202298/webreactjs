@@ -1,0 +1,28 @@
+ul{
+    list-style-type: none;
+    list-style: none;
+    
+}
+
+.item{float: left;position: relative;margin:10px;
+    border:solid #91da0a;display: block;border-radius: 8px;
+    width:200px;height: 120px;text-align: center
+}
+
+.content .sub{
+    display: none;position: absolute;top: 60px;left: 80px;
+    background: #e5f052;padding: 10px;width: 150px;height: 120px;
+    z-index: 99;color:#1562b9;border-radius: 8px;border:solid #f77118;
+}
+.content li:hover>.sub{
+    display: block;
+}
+
+.item img{
+    width:150px;
+    height:90px
+}
+.item span{
+    display: inline;padding: 10px;border-top-left-radius: 8px;border-top-right-radius: 8px;
+    background: #6fa804;color:#ffffff;font-weight: bold;
+}

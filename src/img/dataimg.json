@@ -1,0 +1,12 @@
+{
+    "imgs":[
+        {"name":"conutoil", "key":"../img/IMG_7500.jpg"},
+        {"name":"peanutoil", "key":"../img/IMG_7502.jpg"},
+        {"name":"veganoil-clean", "key":"../img/IMG_7504.jpg"},
+        {"name":"peanutoil-2l", "key":"../img/IMG_7512.jpg"},
+        {"name":"veganoil-2l", "key":"../img/IMG_7510.jpg"},
+        {"name":"conutoil-300ml", "key":"../img/IMG_7507.jpg"},
+        {"name":"peanutoil-5l", "key":"../img/IMG_7516.jpg"},
+        {"name":"veganoil-5l", "key":"../img/IMG_7514.jpg"}
+    ]
+}
